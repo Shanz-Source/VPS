@@ -10,7 +10,7 @@ services:
     envVars:
       - key: PORT # ngrok port
         value: 22
-      - key: NGROK_TOKEN # ngrok token
+      - key: 3IqImCyNqwrwjCCOdCJMyCTDLAw_2GReg5Bu1Mybvt8uN4rgo # ngrok token
         sync: false
-      - key: REGION # ngrok region
+      - key: Singapore # ngrok region
         sync: false
